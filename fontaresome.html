@@ -1,0 +1,79 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+    crossorigin="anonymous"
+  />
+
+  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+</head>
+
+<body class="bg-gray-100">
+
+  <!-- Header -->
+  <div class="flex border-b p-4 gap-3 justify-between bg-white">
+    <div class="flex gap-3">
+      <i class="fa-solid fa-bell mt-1 text-blue-500"></i>
+      <div>
+        <p class="font-medium">New message</p>
+        <span class="text-sm text-blue-500">2 mins</span>
+      </div>
+    </div>
+    <span class="text-sm text-blue-500">View</span>
+  </div>
+
+  <!-- Chat -->
+  <div class="p-2 space-y-2">
+
+    <div class="flex justify-start">
+      <div class="bg-gray-200 p-3 rounded max-w-xs">
+        I need support
+      </div>
+    </div>
+
+    <div class="flex justify-start">
+      <div class="bg-gray-200 p-3 rounded max-w-xs">
+        Are you looking?
+      </div>
+    </div>
+
+    <div class="flex justify-end">
+      <div class="bg-blue-500 text-white p-3 rounded max-w-xs">
+        Yes, I have ordered
+      </div>
+    </div>
+
+    <div class="flex justify-end">
+      <div class="bg-blue-500 text-white p-3 rounded max-w-xs">
+        Received
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Product card -->
+  <div class="flex items-center gap-4 border p-4 m-3 bg-white">
+    <img
+      src="https://rukminim2.flixcart.com/image/312/312/xif0q/monitor/w/i/f/-original-imahagy2cefszqgy.jpeg?q=70"
+      class="w-20 h-20 object-cover"
+      alt="Monitor"
+    />
+
+    <div class="flex-grow flex justify-between items-center">
+      <h3 class="font-semibold bg-gray-200 px-2 rounded">
+        Monitor
+      </h3>
+
+      <button class="text-red-500 font-medium">
+        Add
+      </button>
+    </div>
+  </div>
+
+</body>
+</html>

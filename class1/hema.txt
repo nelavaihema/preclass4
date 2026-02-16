@@ -1,1 +1,399 @@
-<h1>hello <h1/>
+interview questions
+
+what is web development 
+what is the difference b/w a website and a web application 
+what is a client and what is server
+what is the role of the browser in web communication 
+what is the internet 
+what is DNS and why it is needed 
+what happend when we type a URL in the browser 
+what is the IP address 
+difference between HTTP and HTTPS
+what is the domain name
+what is the static website 
+what is the dynamic website 
+give examples of static and dynamic websites 
+which technolgies are used to build dynamic websites 
+
+what is the full stack development 
+what are frontend and backend 
+what is the MERN stack 
+Role of mongoDB express react node in a project 
+can a developer work only as FE or BE 
+
+what is HTML and what is its role 
+what is css used for 
+what is javascript responsible for in a website 
+can a website work without javascipt 
+dif b/w frontend and backend technolgies
+what happend if css is removed from the website 
+how do HTML, CSS and JS work together 
+
+what is VS code 
+why do developers use code editors 
+name some useful vs code extensions 
+wha is the purpose of prettier 
+what is live server 
+
+what is a terminal 
+diff b.w gui and client
+what does CD command do 
+why should developer learn terimanl basics 
+
+what is an API 
+why do we need API's 
+what is the REST API
+diff between API and web service 
+Types of API's public private and partner 
+
+What is HTTP 
+what is the request and response 
+what are HTTP methods 
+Explain the GET, POST, PUT, PATCH AND DELETE 
+what are HTTP status codes 
+diff b/w 200, 201, 400, 401, 403, 404, 500
+what are headers in HTTP 
+what is the request Body 
+
+what is JSON 
+why is JSON used intead of XML
+diff between object and JSON
+what are key-value pairs 
+
+
+what is API rate limiting 
+what is rate limitng important 
+what is the auth token 
+diff b/w session and token 
+what is jwt 
+
+Name some popular public API's 
+what is JSONplaceholder 
+have you used any public API in a project 
+
+git & Github version control 
+
+what is version control 
+why do developers use git 
+diff b/w git and github 
+what is repository 
+
+
+what does git init 
+what is git status 
+what is git add 
+what is git commit 
+what is git log 
+what is the commit 
+
+what is branch 
+why do we use branches 
+what is merging 
+what is github used for 
+how do you push cod in github 
+what is pull request 
+
+what is cloud computing 
+why do we use cloud services 
+diff b/w local server and cloud server 
+what are the advantanges of cloud 
+
+what is hosting
+diff b/w shared hosting and cloud hosting
+what is netlify used for 
+what is vercel 
+what is render 
+
+what is deployment 
+what is CI/CD
+what is continous integration 
+what is continous deployment
+how does code code go from laptop to live website 
+what happend during a build process 
+
+why is security important in web development
+what can happen if a website is not secure 
+
+what is authentication 
+what is authorization 
+diff b/w login and permission 
+example of authentication vs authorization 
+what is https 
+diff b/w http and https 
+what is SSL/TLS 
+what is certificate 
+
+what is CORS 
+why does CORS exist 
+what are cookies 
+what is localstorage 
+what is sessionStorage 
+diff b/w cookies, localstorage and sessionStorage
+
+what is SQL injection 
+what is XSS 
+what is CSRF
+what is phishing 
+
+how do website protect user data 
+how do API's handle authentication
+what is bearer token 
+why should token be kept secret 
+
+what is problem solving in programming 
+why is problem solving important for developer
+how do computers think diffently from 
+
+what are inputs and outputs 
+what is an algorithm 
+what is looping 
+what is iteration 
+
+what is flowchart 
+why do we use flowchart
+
+
+angular interview questions
+
+
+
+What are the key features of Angular
+
+What is SPA (Single Page Application)
+
+Explain Angular architecture.
+
+What ismodule (NgModule)
+
+What iscomponent What are its main parts
+
+Difference between Component and Directive
+
+Types of directives in Angular
+
+What is data binding Explain all types.
+
+What is interpolation
+
+What is two-way data binding How do you achieve it
+
+What is ngIf and ngFor
+
+Difference between ngIf and hidden
+
+What are pipes Give examples.
+
+What is dependency injection
+
+What isservice Why do we use services
+
+How do you createnew Angular project
+What is Angular Router
+
+What is <router-outlet>
+
+Difference between routerLink and href
+
+What is lazy loading
+
+What are route guards
+
+Types of route guards (CanActivate, CanDeactivate, etc.)
+
+What is wildcard route
+Lifecycle hooks in Angular (order matters!)
+
+Difference between constructor and ngOnInit
+
+What is @Input() and @Output()
+
+How do components communicate
+
+What is event binding
+
+Difference between ViewChild and ContentChild
+
+What is template reference variable
+Difference between Template-driven and Reactive forms
+
+What is FormGroup, FormControl, FormArray
+
+How do you add validations in reactive forms
+
+What are synchronous vs asynchronous validators
+
+How to handle form submission
+
+What is ngModel Why is it discouraged in large apps
+How does Angular handle HTTP requests
+
+What is HttpClient
+
+Difference between GET, POST, PUT, PATCH, DELETE
+
+How do you handle errors in HTTP calls
+
+What are interceptors
+
+Why use interceptors
+
+How to share data between components using a service
+
+What is change detection in Angular
+
+Difference between Default and OnPush change detection
+
+How does Angular detect changes
+
+What is Zone.js
+
+How to improve Angular application performance
+
+What is RxJS
+
+Difference between Observable and Promise
+
+What is subscribe()
+
+Difference between map, tap, and switchMap
+
+Difference between mergeMap and switchMap
+
+What is Subject
+
+Difference between Subject, BehaviorSubject, and ReplaySubject
+
+What is takeUntil Why is it important
+
+How do you prevent memory leaks
+What is lazy loading with modules
+
+Difference between eager loading and lazy loading
+
+What is shared module
+
+What is core module
+
+What is state management
+
+Have you used NgRx Explain flow.
+
+Difference between Redux and NgRx
+
+What is immutability
+
+What is XSS How Angular prevents it
+
+What is sanitization
+
+What are best practices for folder structure
+
+How do you handle environment variables
+
+Difference between providedIn: 'root' and providers array
+
+What is AOT compilation
+
+Difference between JIT and AOT
+
+What is tree shaking
+
+How do you deploy Angular app
+
+How would you optimize a slow Angular application
+
+How do you handle API errors globally
+
+How do you restrict routes based on user roles
+
+How do you reuse components efficiently
+
+How do you handle large forms
+
+How do you unsubscribe from observables
+
+How do you pass data between unrelated components
+
+How do you implement pagination
+
+How do you handle authentication in Angular
+
+How do you protect routes after login
+
+How do you load data before route activation
+
+Explain a real project challenge you faced in Angular.
+
+
+
+css 
+
+
+what is css and why we are using css 
+different ways to apply the css 
+what is the diff b/w inline, internal and external css
+what is precedence or specificity of the above(3)
+what is the purpose of !important 
+what is the diff id and class 
+what is the group selector 
+list the css combinators 
+what is the universal selector
+diff child selector and descendent selector
+how make website presentable using css
+diff b.w general sibling selector and adjusent sibling selector
+how do we center the div element horizantally and veritcally...flexbox
+what are the pseudo classes in css and give the list of pseudo classes
+how make alternate background in table
+What is nth child
+what are the pseudo elements in css and give the list of pseudo elements And give the real time scenario where we use
+how to stack one image on top of another image
+how to add text on top of the image 
+what is the z-index give some css measurement units
+what is the image sprites 
+what is picture element
+diff b/w inline, block and inline-block 
+what is flex and why we have to use flexbox 
+what are the diff properties of the flexbox 
+what is grid and why we have to use grid which is one dimensional grid or flex.            Give different properties of grid.
+How do create navbar using flex
+How to create navbar using grid
+How to create navbar using inline block
+grid vs flex 
+what is float and clearfix 
+what is oveflow property 
+diff overflow properties
+Diff between overflow-y and overflow-x
+can we have multiple classes in the given page 
+can we have muliple universal selector in the give application 
+what are css gradients and how to add multiple css colors 
+diff b/w hsla, rgba and hex colors
+How to add animations in css
+What are css3 features
+What is different between transitions and transforms
+how to debug css and see the live changes in the browser 
+how to test the responsiveness of the webpage in the browser 
+is it possible to apply id and class to the same element
+can we have same muliple id's in the given page
+how to create toottip in css 
+how to create pager in css
+how to create pagination in css 
+how to create dropdwon in css 
+how to create navigation menu with active in css 
+what is object-fit 
+create the flex-container with equal widths 
+what is one dimenstional alyout and two dimenstional layout
+what is box-sizing:border-box 
+what is opacity 
+diff b/w opacity and transparent 
+what is display: none 
+what is  visibility: hidden 
+diff b/w display: none and visibility:hidden 
+what is word-wrap 
+what is box model 
+diff padding, margin and border
+What is Column layout and give different properties
+What are diff background properties available
+What is specificity
+Css positions
+Absolute and relative
+Sticky and fixed
